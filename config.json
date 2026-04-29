@@ -1,5 +1,5 @@
 {
-  "recipientEmail": "jonghyun.jo@hd.com","haebin.lee@hd.com","jeonjin.kang@hd.com","hyomin@hd.com",
+  "recipientEmail": "jonghyun.jo@hd.com, haebin.lee@hd.com, jeonjin.kang@hd.com, hyomin@hd.com",
   "timeWindow": "1d",
   "googleNewsApi": "https://news.google.com/rss/search?q={keyword}&hl=ko&gl=KR&ceid=KR:ko&tbs=qdr:{window}",
   "keywords": [
